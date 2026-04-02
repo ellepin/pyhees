@@ -1,0 +1,3 @@
+[submodule "pythees-envelope-api"]
+	path = pythees-envelope-api
+	url = https://github.com/ellepin/pyhees-envelope-api.git
